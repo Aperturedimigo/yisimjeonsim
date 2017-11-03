@@ -1,0 +1,21 @@
+{
+  "name": "neuro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "sad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sda"
+  },
+  "keywords": [
+    "dsa"
+  ],
+  "author": "sad",
+  "license": "ISC",
+  "dependencies": {
+    "sleep": "^5.1.1"
+  }
+}
