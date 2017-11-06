@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../aperture/.idea/Aperture.iml" filepath="$PROJECT_DIR$/../aperture/.idea/Aperture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/croller.iml" filepath="$PROJECT_DIR$/.idea/croller.iml" />
     </modules>
   </component>
 </project>

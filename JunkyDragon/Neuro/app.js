@@ -4,7 +4,8 @@ try {
   var socket = io.connect("http://163.44.165.68:8080");
   var Cylon = require("cylon");
   var wave = null
-  var d = null "use strict";
+  var d = null
+  "use strict";
 
   function send(string, data) {
     socket.emit(string, data);
