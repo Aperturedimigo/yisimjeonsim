@@ -43,5 +43,4 @@ try {
 
   Cylon.start();
 } catch(e) {
-  
 }
